@@ -1,0 +1,2 @@
+/etc/profile: line 49: /opt/g09/bsd/g09.profile: Permission denied
+stty: standard input: Invalid argument

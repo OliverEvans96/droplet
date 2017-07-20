@@ -1,0 +1,36 @@
+20A/atom1: 501 timesteps
+20A/atom2: 501 timesteps
+20A/atom3: 501 timesteps
+
+30A/atom1: 501 timesteps
+30A/atom2: 275 timesteps
+
+40A/atom1: 501 timesteps
+40A/atom2: 501 timesteps
+40A/atom3: 501 timesteps
+40A/atom4: 501 timesteps
+40A/atom5: 501 timesteps
+40A/atom6: 501 timesteps
+40A/atom7: 501 timesteps
+40A/atom8: 501 timesteps
+40A/atom9: 501 timesteps
+
+50A/atom1: 501 timesteps
+50A/atom10: 501 timesteps
+50A/atom11: 501 timesteps
+50A/atom12: 501 timesteps
+50A/atom2: 501 timesteps
+50A/atom3: 501 timesteps
+50A/atom4: 501 timesteps
+50A/atom5: 501 timesteps
+50A/atom6: 501 timesteps
+50A/atom7: 501 timesteps
+50A/atom8: 501 timesteps
+50A/atom9: 501 timesteps
+
+60A/atom1: 851 timesteps
+60A/atom2: 501 timesteps
+60A/atom3: 501 timesteps
+60A/atom4: 501 timesteps
+60A/atom5: 107 timesteps
+
