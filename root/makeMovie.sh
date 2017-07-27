@@ -14,7 +14,7 @@ name="hist"
 
 #:)
 folder=movie_files_${name}
-#cd /home/oge1/lammps/sapphire/analysis/results/$sim
+#cd $SCRATCH/droplet/results/$sim
 
 #Create directories
 echo "Creating directories"

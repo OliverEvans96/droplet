@@ -69,7 +69,7 @@ def vfld(prefix,outloc=None,alpha=1,scale=1,xmin=0,xmax=1,ymin=0,ymax=1,skip=15)
 # e.g. python flowfield.py 40A 1
 sim, part = argv[1:]
 
-prefix = '/home/oge1/lammps/sapphire/analysis/results/'
+prefix = '$SCRATCH/droplet/results/'
 
 # Create image for each frame in this part of this sim
 path = prefix + sim + '/atom' + part + '/'

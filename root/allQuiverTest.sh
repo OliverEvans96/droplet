@@ -6,7 +6,7 @@ echo "Compiling . . ."
 g++ `root-config --glibs --cflags` polarScatter.cpp CircleFitClass.cpp Quiver/Quiver.cpp -o polarScatter.out
 
 echo "Executing!"
-../exec/parallel.sh ../exec/analyze.sh Quiver50A_atom{} n004 /home/oge1/lammps/sapphire/analysis/results/50A/atom{}/calculated.txt 50A/atom{} polarScatter 1 12
+../exec/parallel.sh ../exec/analyze.sh Quiver50A_atom{} n004 $SCRATCH/droplet/results/50A/atom{}/calculated.txt 50A/atom{} polarScatter 1 12
 
 cd ../results/50A
 

@@ -628,7 +628,7 @@ int main(int argc,char* argv[])
 //    double lic_expnt = .5;
 //
 //    FieldViz flowField(640,480);
-//    flowField.SetColormap("/home/oge1/lammps/sapphire/analysis/src/FieldViz/phase_cmap.txt");
+//    flowField.SetColormap("$SCRATCH/droplet/src/FieldViz/phase_cmap.txt");
 //    flowField.SetLICParams(lic_iter, lic_expnt);
 //    flowField.Init();
 //    flowField.SetBounds(rlo, rhi, zlo, zhi);
